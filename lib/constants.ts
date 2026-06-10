@@ -8,7 +8,7 @@ export const NAV_LINKS = [
   { label: "Roadmap", href: "#roadmap" },
 ] as const;
 
-export const GITHUB_URL = "https://github.com/usehelium/helium";
+export const GITHUB_URL = "https://github.com/heliumdatalabs/helium";
 export const DOCS_URL = "/docs";
 
 // ─── Hero Badges ──────────────────────────────────────────────
